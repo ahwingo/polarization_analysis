@@ -27,10 +27,10 @@ The sentiment scores displayed here do not necessarily represent the sentiment a
 **SQLite3
 
 ### Usage with webdriver enabled:
-'python3 media_bias_demo.py'
+`python3 media_bias_demo.py`
 
 # Usage without webdriver enabled:
-'python3 media_bias_demo_no_wd.py'
+`python3 media_bias_demo_no_wd.py`
 
 
 ### Sources:
