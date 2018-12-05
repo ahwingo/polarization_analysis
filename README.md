@@ -10,7 +10,7 @@ A video demo of the GUI is linked to [here.](https://drive.google.com/open?id=1G
 ### How to interpret the data:   
 Dots represent articles which make reference to the topic listed at the top of the screen. Dots placed above the horizontal line mention the selected topic in a positive context, on average, while dots below the line mention the selected topic in a negative context, on average. Neutral topic mentions bring a dot closer to the line. TanH normalization is used on the overall sentiment score of an article.
 
-Articles are sorted by sentiment score, not by their publishing date. Articles are sorted by sentiment score, not by their publishing date. When a dot is selected, the title of its article is displayed in bold. The sentence in that article which contributed most to its sentiment score is also displayed.
+Articles are sorted by sentiment score, not by date. When a dot is selected, the title of its article is displayed in bold. The sentence in that article which contributed most to its sentiment score is also displayed.
 
 ![Example](Demo_Example_Screen.png)
 
