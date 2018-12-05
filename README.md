@@ -10,7 +10,7 @@ A video demo of the GUI is linked to [here.](https://drive.google.com/open?id=1G
 ### How to interpret the data:   
 Dots represent articles which make reference to the topic listed at the top of the screen. Dots placed above the horizontal line mention the selected topic in a positive context, on average, while dots below the line mention the selected topic in a negative context, on average. Neutral topic mentions bring a dot closer to the line. TanH normalization is used on the overall sentiment score of an article. Articles are sorted by sentiment score, not by their publishing date.
 
-![Example](/Media_Bias/Demo_Example_Screen.png)
+![Example](/Media_Bias/blob/master/Demo_Example_Screen.png)
 
 ### Current limitations:   
 The sentiment scores displayed here do not necessarily represent the sentiment a given journalists wished to express about a particular topic. Rather, it represents the sentiment expressed in the overall context that a topic was mentioned in. Further work on this project will include identifying the intended object of expressed sentiment.
