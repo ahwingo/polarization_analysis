@@ -17,14 +17,14 @@ The sentiment scores displayed here do not necessarily represent the sentiment a
 
 
 ### Dependencies:
-*Python 3 (Tested with version 3.6.5)
-*Python packages:
-**Tkinter
-**OpenCV
-**Pillow
-**Selenium / webdriver
-**Numpy
-**SQLite3
+* Python 3 (Tested with version 3.6.5)
+* Python packages:
+** Tkinter
+** OpenCV
+** Pillow
+** Selenium / webdriver
+** Numpy
+** SQLite3
 
 ### Usage with webdriver enabled:
 `python3 media_bias_demo.py`
