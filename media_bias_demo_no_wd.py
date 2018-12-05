@@ -215,26 +215,6 @@ def show_articles_for_topic(event):
 		# Increment the article count.
 		a_count += 1
 
-
-"""
-		# Create a value you can pass as a tag.	
-		a_headline_passable = a_headline.replace(" ", "_")
-		a_paper_passable = a_paper.replace(" ", "_")
-		a_max_context_passable = a_max_context.replace(" ", "_")
-	
-		thing_to_pass_as_tag = a_link + "---SPLIT-ON-ME---" + a_headline_passable
-		thing_to_pass_as_tag = thing_to_pass_as_tag + "---SPLIT-ON-ME---" + a_paper_passable
-		thing_to_pass_as_tag = thing_to_pass_as_tag + "---SPLIT-ON-ME---" + a_max_context_passable
-
-		the_dot = canvas.create_oval(x1, y1, x2, y2, fill=the_color, tags=thing_to_pass_as_tag)
-		
-		canvas.itemconfig(the_dot, fill=the_color)
-		dots_on_screen.append(the_dot)
-		canvas.tag_bind(the_dot, '<Button-1>', on_object_click)  
-
-		a_count += 1
-"""
-
 #--------------------------------------------------------------------------------
 
 
