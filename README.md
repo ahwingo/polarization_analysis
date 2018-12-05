@@ -46,3 +46,4 @@ The sentiment scores displayed here do not necessarily represent the sentiment a
 
 
 # Media_Bias
+Data collected, labeled, and presented by A. Houston Wingo.
