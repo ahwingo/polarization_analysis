@@ -13,7 +13,7 @@ import PIL.Image, PIL.ImageTk
 
 # Creating the window.
 window = Tk() 
-window.title("MEDIA BIAS ANALYSIS DEMO")
+window.title("MEDIA SENTIMENT ANALYSIS DEMO")
 window.geometry('600x700')
 
 # Loading the background.
@@ -90,7 +90,7 @@ btn.place(relx=0.5, y=200, anchor=CENTER)
 
 import sqlite3
 
-conn = sqlite3.connect('media_bias_demo_mod.db')
+conn = sqlite3.connect('media_sentiment_analysis_demo.db')
 c = conn.cursor()
 
 #---------------------------------------------------------------

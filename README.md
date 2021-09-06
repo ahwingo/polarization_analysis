@@ -39,10 +39,10 @@ mentioned in. Additional work on this project will include identifying the inten
 	* SQLite3
 
 ### Usage with webdriver enabled:
-`python3 media_bias_demo.py`
+`python3 demo_gui.py`
 
 ### Usage without webdriver enabled:
-`python3 media_bias_demo_no_wd.py`
+`python3 demo_gui_no_wd.py`
 
 
 ### Sources:
